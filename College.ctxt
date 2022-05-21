@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=College
+comment0.text=\n\ This\ home\ work\ gives\ a\ summary\ of\ all\ the\ concepts\ we\ have\ learned\ \n\ through\ out\ the\ quarter\ starting\ from\ procedural\ to\ object\ oreinted\ \n\ programming.\ The\ program\ makes\ use\ of\ polymophism,\ inheritance\ and\ so\ on...\n\n\ @author\ (Kemba\ Konteh)\n\ \n\ @version\ (CSC142\ 08/16/2018)\n
+comment1.params=id\ firstName\ lastName\ day\ month\ year\ sex\ credit
+comment1.target=College(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ Sex,\ int)
+comment1.text=\n\ constructor\ that\ constructs\ the\ college\ object\ and\ extends\ the\ student\n\ object\n\n\ @param\ id\ takes\ id\ as\ a\ parameter\ of\ type\ String\n\ @param\ firstName\ takes\ first\ name\ as\ a\ parameter\ of\ type\ String\n\ @param\ lastName\ takes\ last\ name\ as\ a\ parameter\ of\ type\ String\n\ @param\ day\ takes\ day\ as\ a\ parameter\ of\ type\ int\ \n\ @param\ month\ takes\ month\ as\ a\ parameter\ of\ type\ int\n\ @param\ year\ takes\ year\ as\ a\ parameter\ of\ type\ int\n\ @param\ sex\ takes\ sex\ as\ a\ parameter\ of\ type\ Sex\n\ @param\ credit\ takes\ credit\ as\ a\ parameter\ of\ type\ int\ \n\ \n\ @return\ \ \ \ \n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\n\ Method\ that\ retrieves\ the\ price\n\n\ @param\ \ \n\ @return\ getCredit()\ *\ CREDIT_PRICE\ returns\ the\ price\ \n
+comment3.params=
+comment3.target=boolean\ getFullTime()
+comment3.text=\n\ Method\ that\ checks\ if\ a\ paticular\ student\ is\ fulltime\ or\ not\n\n\ @param\ \ \n\ @return\ \ false\ \ returns\ a\ boolean\ depending\ on\ the\ result\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ This\ is\ the\ toString\ method\ that\ displays\ the\ data\ \n\n\ @param\ \n\ @return\ res\ returns\ a\ strinf\ representation\ of\ the\ data\n
+comment5.params=
+comment5.target=void\ test()
+comment5.text=\n\ test\n\n\ @param\ \ \n\ @return\ \ \ \ \n
+numComments=6

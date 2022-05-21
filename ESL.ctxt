@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ESL
+comment0.text=\n\ This\ is\ the\ ESL\ object\ that\ extends\ the\ student\ object\n\ \n\ @author\ (Kemba\ Konteh)\n\ @version\ (CSC142\ 08/16/2018)\n
+comment1.params=id\ firstName\ lastName\ day\ month\ year\ sex\ level
+comment1.target=ESL(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ Sex,\ Level)
+comment1.text=\n\ constructs\ the\ ESL\ object\n\n\ @param\ \ id\ takes\ id\ as\ a\ parameter\ of\ type\ String\n\ @param\ firstName\ takes\ first\ name\ as\ a\ parameter\ of\ type\ String\n\ @param\ lastName\ takes\ last\ name\ as\ a\ parameter\ of\ type\ String\n\ @param\ day\ takes\ day\ as\ a\ parameter\ of\ type\ int\n\ @param\ month\ takes\ month\ as\ a\ parameter\ of\ type\ int\n\ @param\ year\ takes\ year\ as\ a\ parameter\ of\ type\ int\n\ @param\ sex\ takes\ sex\ as\ a\ parameter\ of\ type\ Sex\n\ @param\ level\ as\ a\ parameter\ of\ type\ Level\n\ \n\ @return\ \ \ \ \n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\n\ Method\ that\ retrieves\ the\ price\ \n\n\ @param\ \n\ @return\ \ price\ returns\ the\ price\ \n
+comment3.params=
+comment3.target=Level\ getLevel()
+comment3.text=\n\ Method\ that\ retrieves\ the\ level\n\ @param\ \ \n\ @return\ \ level\ \ returns\ the\ level\n
+comment4.params=level
+comment4.target=void\ setLevel(Level)
+comment4.text=\n\ Method\ that\ sets\ the\ level\n\n\ @param\ \ level\ takes\ level\ as\ a\ parameter\ of\ type\ Level\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ This\ the\ toString\ method\ that\ nicely\ displays\ the\ result\n\n\ @param\ \ \n\ @return\ \ res\ returns\ a\ string\ representation\ of\ the\ data\n
+comment6.params=
+comment6.target=void\ test()
+comment6.text=\n\ Test\n\n\ @param\ \ \n\ @return\ \ \ \n
+numComments=7
